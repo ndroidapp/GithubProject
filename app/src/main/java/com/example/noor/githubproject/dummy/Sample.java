@@ -4,6 +4,5 @@ public class Sample {
     public Sample() {
         //test
 
-
     }
 }
