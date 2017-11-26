@@ -11,6 +11,8 @@ import android.widget.TextView;
 
 import com.example.noor.githubproject.dummy.DummyContent;
 
+//Test Changing For GitHub
+
 /**
  * A fragment representing a single Item detail screen.
  * This fragment is either contained in a {@link ItemListActivity}
